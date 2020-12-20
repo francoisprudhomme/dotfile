@@ -4,7 +4,7 @@ jspm_packages
 
 # Serverless directories
 .serverless
-
+./todos/auth.js
 # Created by https://www.gitignore.io/api/osx,node,linux,windows
 
 ### Linux ###
@@ -128,14 +128,14 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
-# Windows shortcuts
+
 *.lnk
 .aws-sam
 .vscode
 .aws
 .toml
 .DS_Store
-package-lock.json
+
 .key
 private.key
 
@@ -166,3 +166,5 @@ dist
 #vs cod
 
 # End of https://www.gitignore.io/api/osx,node,linux,windows
+
+auth.js
