@@ -131,7 +131,6 @@ $RECYCLE.BIN/
 
 *.lnk
 .aws-sam
-.vscode
 .aws
 .toml
 .DS_Store
