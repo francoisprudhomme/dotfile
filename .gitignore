@@ -1,10 +1,11 @@
 # package directories
 node_modules
 jspm_packages
-
+.webpack
 # Serverless directories
 .serverless
 ./todos/auth.js
+dist
 # Created by https://www.gitignore.io/api/osx,node,linux,windows
 
 ### Linux ###
