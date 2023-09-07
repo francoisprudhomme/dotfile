@@ -168,3 +168,4 @@ auth.js
 .serverless
 .serverless/
 .serverless*
+builds/
